@@ -1,3 +1,4 @@
+
 .a{
     #background-color: aquamarine;
     color: rgb(1, 11, 11);
@@ -5,6 +6,15 @@
 }
 
 .b{
-    background-color: antiquewhite;
+    background-color: rgb(245, 246, 247);
 
 }
+
+
+footer {
+    background-image: url('https://static.vecteezy.com/system/resources/thumbnails/003/313/160/small/front-view-of-elegant-library-with-stairs-photo.jpg');
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 100px;
+    
+  }
