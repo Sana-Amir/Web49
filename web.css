@@ -10,11 +10,24 @@
 
 }
 
-
 footer {
-    background-image: url('https://static.vecteezy.com/system/resources/thumbnails/003/313/160/small/front-view-of-elegant-library-with-stairs-photo.jpg');
+    background-image: url('https://www.wallpaperflare.com/static/302/309/318/milky-way-starry-sky-night-sky-star-wallpaper.jpg');
+    background-size: cover; 
     background-repeat: no-repeat;
     text-align: center;
-    padding: 100px;
-    
+    padding: 50px;
+    color: rgba(255, 255, 255, 0.7);
+  }
+
+  footer a.b {
+    color: rgba(8, 104, 128, 0.7); 
+    text-decoration: none;
+    background-color: transparent;
+    font-weight: bold;
+    font-style: italic; 
+    font-size: 24px;
+  }
+  
+  footer a.b:hover {
+    color: rgb(237, 232, 232); 
   }
